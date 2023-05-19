@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "132642666293",
+    "project_id": "grip-social-media-integration",
+    "storage_bucket": "grip-social-media-integration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132642666293:android:b085000deb3f89faa97e7c",
+        "android_client_info": {
+          "package_name": "com.example.gripsocialmediaintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132642666293-v4ko4i25gkdc1gmd8pmj02c3ffu7ooqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gripsocialmediaintegration",
+            "certificate_hash": "9df3adab0fbbb98a7f807e192c0d7d400090a9c2"
+          }
+        },
+        {
+          "client_id": "132642666293-mfob5ngndui8g64lbngbq3iqc33dlel1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXyBvZJ8BERHt-YAF1dpQ3Xb9uoSFBaYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132642666293-bj7nqoebdungk1gta4vfmh4ibaqts7io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
